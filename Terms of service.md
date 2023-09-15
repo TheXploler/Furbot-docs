@@ -18,7 +18,7 @@ b. We do not guarantee the accuracy or availability of FurBot's features. The Bo
 
 ## 3. Privacy
 
-a. FurBot may collect and store certain data related to its use, such as server activity and user interactions. We will handle this data in accordance with our Privacy Policy, which can be found [here](https://github.com/TheXploler/Furbot-docs/blob/main/Privacy-Policy.md)
+a. FurBot may collect and store certain data related to its use, such as server activity and user interactions. We will handle this data in accordance with our Privacy Policy, which can be found [here](https://github.com/TheXploler/Furbot-docs/blob/main/Privacy%20Policy.md)
 
 ## 4. User Conduct
 
