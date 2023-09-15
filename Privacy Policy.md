@@ -18,7 +18,7 @@ a. Data Isolation: We take data security seriously. FurBot is designed to proces
 
 b. Encryption: Any data transmission between FurBot and Discord servers is encrypted to protect against unauthorized access.
 
-3. Sharing of Data
+## 3. Sharing of Data
 
 a. No Third-Party Sharing: We do not share any data collected by FurBot with third parties. Data processed by FurBot remains within the Discord environment.
 
